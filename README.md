@@ -9,3 +9,5 @@ This is a public repository so anyone is free to access and use the code by eith
 
 ## links
 github: https://github.com/TacoSauce24/weather-dashboard
+
+deployed site: https://tacosauce24.github.io/weather-dashboard/
